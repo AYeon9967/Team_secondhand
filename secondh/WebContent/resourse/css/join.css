@@ -1,0 +1,43 @@
+@charset "UTF-8";
+.controller {
+	width:700px;
+	margin:30px auto;
+}
+table {
+	width:100%;
+	border-collapse:collapse;
+}
+tr {
+	height:70px;
+}
+input {
+	border:none;
+	width:400px;
+	height:30px;
+	border-bottom:solid 1px #ccc;
+	font-size:10pt;
+}
+select {
+	border:1px solid blue;
+	border-radius:5px;
+	width:120px;
+	height:35px;
+}
+#sbutton {
+	border:none;
+	background-color:#1c7c7c;
+	color:white;
+	height:40px;
+	width:250px;
+}
+#nonesbutton {
+	border:none;
+	background-color:#ccc;
+	height:40px;
+	width:250px;
+}
+#idcheckbutton {
+	border:none;
+	height:35px;
+	width:120px;
+}

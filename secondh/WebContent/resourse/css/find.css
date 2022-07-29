@@ -1,0 +1,26 @@
+@charset "UTF-8";
+.controller {
+	width:600px;
+	margin:30px auto;
+}
+table {
+	width:100%;
+	border-collapse:collapse;
+}
+tr {
+	height:70px;
+}
+input {
+	border:none;
+	width:450px;
+	height:30px;
+	border-bottom:solid 1px #ccc;
+	font-size:10pt;
+}
+#sbutton {
+	border:none;
+	background-color:#1c7c7c;
+	color:white;
+	height:40px;
+	width:250px;
+}

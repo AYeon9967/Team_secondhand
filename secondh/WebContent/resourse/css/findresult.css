@@ -1,0 +1,23 @@
+@charset "UTF-8";
+.controller {
+	width:600px;
+	margin:30px auto;
+}
+table {
+	width:100%;
+	border-collapse:collapse;
+}
+tr {
+	height:70px;
+	text-align:center;
+}
+#sbutton {
+	border:none;
+	background-color:#1c7c7c;
+	color:white;
+	height:40px;
+	width:250px;
+}
+#result{
+	font-size:23px;
+}

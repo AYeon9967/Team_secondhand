@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.mypage{
+	margin-left:20%;
+	display:flex;
+}
+
+.mypage2{
+	text-align:left;
+}
+
+ul li a{
+	color:#1c7c7c;
+}

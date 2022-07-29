@@ -1,0 +1,34 @@
+@charset "UTF-8";
+.controller {
+	width:700px;
+	margin:30px auto;
+}
+table {
+	width:100%;
+	border-collapse:collapse;
+}
+tr {
+	height:60px;
+}
+input {
+	border:none;
+	width:700px;
+	height:30px;
+	border-bottom:solid 1px #ccc;
+}
+#sbutton {
+	border:none;
+	background-color:#1c7c7c;
+	color:white;
+	height:40px;
+	width:400px;
+}
+.forgot{
+	text-align:center;
+	margin:15px auto;
+}
+.forgot a{
+	text-decoration-line:none;
+	font-size:15px;
+	color:black;
+}
